@@ -1,0 +1,10 @@
+C:\Users\DEICIDA\source\repos\StopWatchV1\bin\Debug\StopWatchV1.exe.config
+C:\Users\DEICIDA\source\repos\StopWatchV1\bin\Debug\StopWatchV1.exe
+C:\Users\DEICIDA\source\repos\StopWatchV1\bin\Debug\StopWatchV1.pdb
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.StopWatch.resources
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.exe
+C:\Users\DEICIDA\source\repos\StopWatchV1\obj\Debug\StopWatchV1.pdb
